@@ -1,0 +1,5 @@
+5. Thorsten Joachims, Learning to Classify Text Using Support Vector Machines.,
+Dissertation, Kluwer, 2002.
+6. T. Joachims, Estimating the Generalization Performance of a SVM Efficiently.
+Proceedings of the International Conference on Machine Learning, Morgan Kaufman,
+2000.
